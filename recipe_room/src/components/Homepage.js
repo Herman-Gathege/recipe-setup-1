@@ -1,5 +1,7 @@
+
 import React from 'react';
-import './App.css'; // Your styles file
+import '../App.css'; // Correct if App.css is in the src folder
+
 
 function Navbar() {
     return (
